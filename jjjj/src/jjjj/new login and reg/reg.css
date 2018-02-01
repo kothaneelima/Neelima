@@ -1,0 +1,46 @@
+body{
+    background-image: url(3d-background-wallpaper-03.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    
+}
+.simple-form{
+    text-align: center;
+    margin: 100px 8px;
+    color: floralwhite;
+}
+
+#registration{
+    width: 300px;
+    background-color: #051019;
+    opacity: 0.8;
+    padding: 100px 120px;
+}
+#button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+
+#ph{
+    outline: 0px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#phone{
+    outline: 0px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 5px;
+}
+#rd{
+    
+}
+#butt{
+    color: cornflowerblue;
+    font-size: 18px;
+    
+}
